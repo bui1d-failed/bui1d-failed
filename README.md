@@ -1,8 +1,12 @@
 ## Hi.
 
-### My Skills $$$
+### Skills $$$
 
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio)](https://skillicons.dev)
+
+### Languages $$$
+
+[![My Langs](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
 <!--
 **bui1d-failed/bui1d-failed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
